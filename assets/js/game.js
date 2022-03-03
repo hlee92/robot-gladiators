@@ -178,7 +178,7 @@ var shop = function() {
       shop();
       break;
   }
-};
+}; 
 
 // start first game when page loads
 startGame();
